@@ -1,0 +1,9 @@
+[[ITKIOWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "35d38c051e1fb4203da23d05f4e1b1eb9318d498"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "7c71b76e0f7c606245380b92e532fab4a1aa1005feb2ed1996d5c627c01c3f2e"
+    url = "https://github.com/divital-coder/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v1.0.0+3/ITKIOWrapper.v1.0.0.x86_64-linux-gnu.tar.gz"
