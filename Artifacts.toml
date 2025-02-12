@@ -1,0 +1,20 @@
+[[ITKIOWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "86e9642172e353301db884d2a4991201b10e6f02"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "0f70043478a95c164f86e81708879739480a0a1052310d326f3a730d205ce895"
+    url = "https://github.com/divital-coder/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[ITKIOWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "42c0c323aaaff1a48798d61521705e923bc7fd13"
+libc = "glibc"
+os = "linux"
+
+    [[ITKIOWrapper.download]]
+    sha256 = "5deff2c227070f2ce631c7fbfeff3cbec68e85e85506c04748f792fca01e93f0"
+    url = "https://github.com/divital-coder/ITKIOWrapper_jll.jl/releases/download/ITKIOWrapper-v3.0.0+0/ITKIOWrapper.v3.0.0.x86_64-linux-gnu-cxx11.tar.gz"
